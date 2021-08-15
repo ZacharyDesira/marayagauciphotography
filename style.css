@@ -1,0 +1,17 @@
+.package-list, .contact-list{
+    list-style: none;
+    padding:0;
+}
+
+.contact-icon{
+    padding-right: 10px;
+}
+
+.gallery-list{
+    color:black;
+    text-decoration: none;
+}
+
+.gallery-list:hover{
+    color: #9ed7e0 ;
+}
